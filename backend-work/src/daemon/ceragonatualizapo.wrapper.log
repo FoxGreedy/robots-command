@@ -1,0 +1,2 @@
+2019-04-17 19:52:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\_tfs\git\ceragon-automacao\backend-work\node_modules\node-windows\lib\wrapper.js --file C:\_tfs\git\ceragon-automacao\backend-work\src\cronAtualizaPO.js --log "Ceragon Atualiza PO wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-17 19:52:15 - Started 17592

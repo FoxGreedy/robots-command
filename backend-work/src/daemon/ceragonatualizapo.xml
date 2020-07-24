@@ -1,0 +1,25 @@
+<service>
+	<id>ceragonatualizapo.exe</id>
+	<name>Ceragon Atualiza PO</name>
+	<description>Serviço criado pela Innovsoftware</description>
+	<executable>C:\Program Files\nodejs\node.exe</executable>
+	<logmode>rotate</logmode>
+	<argument>--harmony</argument>
+	<argument>C:\_tfs\git\ceragon-automacao\backend-work\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>C:\_tfs\git\ceragon-automacao\backend-work\src\cronAtualizaPO.js</argument>
+	<argument>--log</argument>
+	<argument>Ceragon Atualiza PO wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<stoptimeout>30sec</stoptimeout>
+	<workingdirectory>C:\_tfs\git\ceragon-automacao\backend-work\src</workingdirectory>
+</service>

@@ -1,0 +1,9 @@
+- interface grafica para controlar o job de execução, pode escolher por PN ou Pedido e item
+Escolher se é material ou serviço
+	- Spare um protocolo por linha
+	- Serviço um protocolo por Linha
+	- Material um protocolo pro todas as 	linhas
+
+- colocar a ultima execução do job de pesquisa
+- alterar da cidade pelo codigo e não pelo nome
+- Pensar em como colocar uma interface para adicionar os dados historicos

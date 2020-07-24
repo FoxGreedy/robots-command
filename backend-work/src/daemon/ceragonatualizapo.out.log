@@ -1,0 +1,84 @@
+2019-04-17T22:52:21.226Z: Prototypes configurados
+2019-04-17T22:52:22.969Z: Procurando o componente: #logonuidfield
+2019-04-17T22:52:23.605Z: Esperando o componente: #logonuidfield Ficar visivel
+2019-04-17T22:52:23.631Z: Setando valor '00538268000181' no componente: #logonuidfield
+2019-04-17T22:52:23.862Z: Setando valor 'Ceragon@2021' no componente: #logonpassfield
+2019-04-17T22:52:24.093Z: Procurando o componente: #mainCaptcha
+2019-04-17T22:52:24.093Z: Esperando o componente: #mainCaptcha Ficar visivel
+2019-04-17T22:52:24.127Z: Setando valor 'cpOM0' no componente: #resposta
+2019-04-17T22:52:24.225Z: Procurando o componente: #Button1
+2019-04-17T22:52:24.231Z: Esperando o componente: #Button1 Ficar visivel
+2019-04-17T22:52:24.231Z: Clicando no componente: #Button1
+2019-04-17T22:52:25.983Z: Procurando o componente: #navNode_2_6
+2019-04-17T22:52:25.994Z: Esperando o componente: #navNode_2_6 Ficar visivel
+2019-04-17T22:52:26.004Z: Clicando no componente: #navNode_2_6
+2019-04-17T22:52:28.535Z: Procurando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Pesquisa_Avancada-r
+2019-04-17T22:52:28.845Z: Esperando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Pesquisa_Avancada-r Ficar visivel
+2019-04-17T22:52:28.860Z: Clicando no componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Pesquisa_Avancada-r
+2019-04-17T22:52:29.341Z: Setando valor '4518607' no componente: #aaaa\.MonitorPrefaturaView\.InputField_Protocolo
+2019-04-17T22:52:30.220Z: Obtendo valor no componente: #aaaa\.MonitorPrefaturaView\.Loc_Ser_editor\.0
+2019-04-17T22:52:30.220Z: Obtendo valor no componente: #aaaa\.MonitorPrefaturaView\.Zxml_editor\.0
+2019-04-17T22:52:30.235Z: Obtendo valor no componente: #aaaa\.MonitorPrefaturaView\.Aprovador_TextView\.0
+2019-04-17T22:52:30.251Z: Obtendo valor no componente: #aaaa\.MonitorPrefaturaView\.Email_Aprovador_TextView\.0
+2019-04-17T22:52:31.824Z: Procurando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Selecao-r
+2019-04-17T22:52:31.824Z: Esperando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Selecao-r Ficar visivel
+2019-04-17T22:52:31.824Z: Clicando no componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Selecao-r
+2019-04-17T22:52:33.028Z: Procurando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Detail-r
+2019-04-17T22:52:33.028Z: Esperando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Detail-r Ficar visivel
+2019-04-17T22:52:33.028Z: Clicando no componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Detail-r
+2019-04-17T22:52:39.869Z: Prototypes configurados
+2019-04-17T22:52:41.137Z: Procurando o componente: #logonuidfield
+2019-04-17T22:52:41.897Z: Esperando o componente: #logonuidfield Ficar visivel
+2019-04-17T22:52:41.945Z: Setando valor '00538268000181' no componente: #logonuidfield
+2019-04-17T22:52:42.208Z: Setando valor 'Ceragon@2021' no componente: #logonpassfield
+2019-04-17T22:52:42.408Z: Procurando o componente: #mainCaptcha
+2019-04-17T22:52:42.408Z: Esperando o componente: #mainCaptcha Ficar visivel
+2019-04-17T22:52:42.445Z: Setando valor '5lML9' no componente: #resposta
+2019-04-17T22:52:42.546Z: Procurando o componente: #Button1
+2019-04-17T22:52:42.546Z: Esperando o componente: #Button1 Ficar visivel
+2019-04-17T22:52:42.561Z: Clicando no componente: #Button1
+2019-04-17T22:52:44.046Z: Procurando o componente: #navNode_2_6
+2019-04-17T22:52:44.046Z: Esperando o componente: #navNode_2_6 Ficar visivel
+2019-04-17T22:52:44.062Z: Clicando no componente: #navNode_2_6
+2019-04-17T22:52:46.582Z: Procurando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Pesquisa_Avancada-r
+2019-04-17T22:52:46.714Z: Esperando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Pesquisa_Avancada-r Ficar visivel
+2019-04-17T22:52:46.721Z: Clicando no componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Pesquisa_Avancada-r
+2019-04-17T22:52:47.183Z: Setando valor '4518607' no componente: #aaaa\.MonitorPrefaturaView\.InputField_Protocolo
+2019-04-17T22:52:48.052Z: Obtendo valor no componente: #aaaa\.MonitorPrefaturaView\.Loc_Ser_editor\.0
+2019-04-17T22:52:48.067Z: Obtendo valor no componente: #aaaa\.MonitorPrefaturaView\.Zxml_editor\.0
+2019-04-17T22:52:48.067Z: Obtendo valor no componente: #aaaa\.MonitorPrefaturaView\.Aprovador_TextView\.0
+2019-04-17T22:52:48.083Z: Obtendo valor no componente: #aaaa\.MonitorPrefaturaView\.Email_Aprovador_TextView\.0
+2019-04-17T22:52:49.702Z: Procurando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Selecao-r
+2019-04-17T22:52:49.702Z: Esperando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Selecao-r Ficar visivel
+2019-04-17T22:52:49.702Z: Clicando no componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Selecao-r
+2019-04-17T22:52:50.912Z: Procurando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Detail-r
+2019-04-17T22:52:50.935Z: Esperando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Detail-r Ficar visivel
+2019-04-17T22:52:50.949Z: Clicando no componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Detail-r
+2019-04-17T22:52:59.413Z: Prototypes configurados
+2019-04-17T22:53:01.195Z: Procurando o componente: #logonuidfield
+2019-04-17T22:53:01.725Z: Esperando o componente: #logonuidfield Ficar visivel
+2019-04-17T22:53:01.785Z: Setando valor '00538268000181' no componente: #logonuidfield
+2019-04-17T22:53:02.032Z: Setando valor 'Ceragon@2021' no componente: #logonpassfield
+2019-04-17T22:53:02.138Z: Procurando o componente: #mainCaptcha
+2019-04-17T22:53:02.138Z: Esperando o componente: #mainCaptcha Ficar visivel
+2019-04-17T22:53:02.170Z: Setando valor '2tzFU' no componente: #resposta
+2019-04-17T22:53:02.248Z: Procurando o componente: #Button1
+2019-04-17T22:53:02.248Z: Esperando o componente: #Button1 Ficar visivel
+2019-04-17T22:53:02.264Z: Clicando no componente: #Button1
+2019-04-17T22:53:03.652Z: Procurando o componente: #navNode_2_6
+2019-04-17T22:53:03.668Z: Esperando o componente: #navNode_2_6 Ficar visivel
+2019-04-17T22:53:03.668Z: Clicando no componente: #navNode_2_6
+2019-04-17T22:53:06.208Z: Procurando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Pesquisa_Avancada-r
+2019-04-17T22:53:06.349Z: Esperando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Pesquisa_Avancada-r Ficar visivel
+2019-04-17T22:53:06.357Z: Clicando no componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Pesquisa_Avancada-r
+2019-04-17T22:53:06.799Z: Setando valor '4518607' no componente: #aaaa\.MonitorPrefaturaView\.InputField_Protocolo
+2019-04-17T22:53:07.621Z: Obtendo valor no componente: #aaaa\.MonitorPrefaturaView\.Loc_Ser_editor\.0
+2019-04-17T22:53:07.629Z: Obtendo valor no componente: #aaaa\.MonitorPrefaturaView\.Zxml_editor\.0
+2019-04-17T22:53:07.630Z: Obtendo valor no componente: #aaaa\.MonitorPrefaturaView\.Aprovador_TextView\.0
+2019-04-17T22:53:07.630Z: Obtendo valor no componente: #aaaa\.MonitorPrefaturaView\.Email_Aprovador_TextView\.0
+2019-04-17T22:53:09.228Z: Procurando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Selecao-r
+2019-04-17T22:53:09.228Z: Esperando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Selecao-r Ficar visivel
+2019-04-17T22:53:09.244Z: Clicando no componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Selecao-r
+2019-04-17T22:53:10.488Z: Procurando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Detail-r
+2019-04-17T22:53:10.488Z: Esperando o componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Detail-r Ficar visivel
+2019-04-17T22:53:10.503Z: Clicando no componente: #aaaa\.MonitorPrefaturaView\.ToolBarItems_Detail-r

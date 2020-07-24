@@ -1,0 +1,29 @@
+{
+  "name": "ceragon-work",
+  "description": "",
+  "version": "1.0.0",
+  "main": "src/createPO.js",
+  "scripts": {
+    "createPO": "node ./src/criaPO.js",
+    "atualizaPO": "node ./src/atualizaPO.js",
+    "readExcel": "node ./src/readExcelFile.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "chokidar": "^2.1.5",
+    "cron": "^1.7.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "node-windows": "^0.1.14",
+    "puppeteer": "^1.13.0",
+    "xlsx-stream-reader": "^1.0.9"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "license": "UNLICENSED"
+}

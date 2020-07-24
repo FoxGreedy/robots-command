@@ -1,0 +1,96 @@
+2019-05-06 13:42:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\automacao\backend-work\node_modules\node-windows\lib\wrapper.js --file C:\automacao\backend-work\src\readExcelFile.js --log "Ceragon Excel wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-06 13:42:33 - Started 8984
+2019-05-06 13:44:29 - Stopping ceragonexcel.exe
+2019-05-06 13:44:29 - ProcessKill 8984
+2019-05-06 13:44:29 - Found child process: 11704 Name: conhost.exe
+2019-05-06 13:44:29 - Found child process: 10216 Name: node.exe
+2019-05-06 13:44:29 - Stopping process 11704
+2019-05-06 13:44:29 - Send SIGINT 11704
+2019-05-06 13:44:29 - SIGINT to 11704 failed - Killing as fallback
+2019-05-06 13:44:29 - Stopping process 10216
+2019-05-06 13:44:29 - Send SIGINT 10216
+2019-05-06 13:44:29 - SIGINT to 10216 failed - Killing as fallback
+2019-05-06 13:44:29 - Stopping process 8984
+2019-05-06 13:44:29 - Send SIGINT 8984
+2019-05-06 13:44:29 - SIGINT to 8984 failed - Killing as fallback
+2019-05-06 13:44:29 - Finished ceragonexcel.exe
+2019-05-06 13:45:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\automacao\backend-work\node_modules\node-windows\lib\wrapper.js --file C:\automacao\backend-work\src\readExcelFile.js --log "Ceragon Excel wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-06 13:45:28 - Started 10176
+2019-05-06 13:46:27 - Stopping ceragonexcel.exe
+2019-05-06 13:46:27 - ProcessKill 10176
+2019-05-06 13:46:27 - Found child process: 7948 Name: conhost.exe
+2019-05-06 13:46:27 - Found child process: 11788 Name: node.exe
+2019-05-06 13:46:27 - Stopping process 7948
+2019-05-06 13:46:27 - Send SIGINT 7948
+2019-05-06 13:46:27 - SIGINT to 7948 failed - Killing as fallback
+2019-05-06 13:46:27 - Stopping process 11788
+2019-05-06 13:46:27 - Send SIGINT 11788
+2019-05-06 13:46:27 - SIGINT to 11788 failed - Killing as fallback
+2019-05-06 13:46:27 - Stopping process 10176
+2019-05-06 13:46:27 - Send SIGINT 10176
+2019-05-06 13:46:27 - SIGINT to 10176 failed - Killing as fallback
+2019-05-06 13:46:27 - Finished ceragonexcel.exe
+2019-05-06 13:46:50 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\automacao\backend-work\node_modules\node-windows\lib\wrapper.js --file C:\automacao\backend-work\src\readExcelFile.js --log "Ceragon Excel wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-06 13:46:50 - Started 6568
+2019-05-06 13:47:53 - Stopping ceragonexcel.exe
+2019-05-06 13:47:53 - ProcessKill 6568
+2019-05-06 13:47:53 - Found child process: 6848 Name: conhost.exe
+2019-05-06 13:47:53 - Found child process: 9488 Name: node.exe
+2019-05-06 13:47:53 - Stopping process 6848
+2019-05-06 13:47:53 - Send SIGINT 6848
+2019-05-06 13:47:53 - SIGINT to 6848 failed - Killing as fallback
+2019-05-06 13:47:53 - Stopping process 9488
+2019-05-06 13:47:53 - Send SIGINT 9488
+2019-05-06 13:47:53 - SIGINT to 9488 failed - Killing as fallback
+2019-05-06 13:47:53 - Stopping process 6568
+2019-05-06 13:47:53 - Send SIGINT 6568
+2019-05-06 13:47:53 - SIGINT to 6568 failed - Killing as fallback
+2019-05-06 13:47:53 - Finished ceragonexcel.exe
+2019-05-06 14:57:14 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\automacao\backend-work\node_modules\node-windows\lib\wrapper.js --file C:\automacao\backend-work\src\readExcelFile.js --log "Ceragon Excel wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-06 14:57:14 - Started 7932
+2019-05-06 14:58:44 - Stopping ceragonexcel.exe
+2019-05-06 14:58:44 - ProcessKill 7932
+2019-05-06 14:58:44 - Found child process: 8344 Name: conhost.exe
+2019-05-06 14:58:44 - Found child process: 11740 Name: node.exe
+2019-05-06 14:58:44 - Stopping process 8344
+2019-05-06 14:58:44 - Send SIGINT 8344
+2019-05-06 14:58:44 - SIGINT to 8344 failed - Killing as fallback
+2019-05-06 14:58:44 - Stopping process 11740
+2019-05-06 14:58:44 - Send SIGINT 11740
+2019-05-06 14:58:44 - SIGINT to 11740 failed - Killing as fallback
+2019-05-06 14:58:44 - Stopping process 7932
+2019-05-06 14:58:44 - Send SIGINT 7932
+2019-05-06 14:58:44 - SIGINT to 7932 failed - Killing as fallback
+2019-05-06 14:58:44 - Finished ceragonexcel.exe
+2019-05-06 16:11:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\automacao\backend-work\node_modules\node-windows\lib\wrapper.js --file C:\automacao\backend-work\src\readExcelFile.js --log "Ceragon Excel wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-06 16:11:59 - Started 3912
+2019-05-06 16:13:58 - Stopping ceragonexcel.exe
+2019-05-06 16:13:58 - ProcessKill 3912
+2019-05-06 16:13:58 - Found child process: 11564 Name: conhost.exe
+2019-05-06 16:13:58 - Found child process: 4280 Name: node.exe
+2019-05-06 16:13:58 - Stopping process 11564
+2019-05-06 16:13:58 - Send SIGINT 11564
+2019-05-06 16:13:58 - SIGINT to 11564 failed - Killing as fallback
+2019-05-06 16:13:58 - Stopping process 4280
+2019-05-06 16:13:58 - Send SIGINT 4280
+2019-05-06 16:13:58 - SIGINT to 4280 failed - Killing as fallback
+2019-05-06 16:13:58 - Stopping process 3912
+2019-05-06 16:13:58 - Send SIGINT 3912
+2019-05-06 16:13:58 - SIGINT to 3912 failed - Killing as fallback
+2019-05-06 16:13:58 - Finished ceragonexcel.exe
+2019-05-06 16:26:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\automacao\backend-work\node_modules\node-windows\lib\wrapper.js --file C:\automacao\backend-work\src\readExcelFile.js --log "Ceragon Excel wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-06 16:26:39 - Started 2412
+2019-05-07 10:12:34 - Stopping ceragonexcel.exe
+2019-05-07 10:12:34 - ProcessKill 2412
+2019-05-07 10:12:34 - Found child process: 11392 Name: conhost.exe
+2019-05-07 10:12:34 - Found child process: 12168 Name: node.exe
+2019-05-07 10:12:34 - Stopping process 11392
+2019-05-07 10:12:34 - Send SIGINT 11392
+2019-05-07 10:12:34 - SIGINT to 11392 failed - Killing as fallback
+2019-05-07 10:12:34 - Stopping process 12168
+2019-05-07 10:12:34 - Send SIGINT 12168
+2019-05-07 10:12:34 - SIGINT to 12168 failed - Killing as fallback
+2019-05-07 10:12:34 - Stopping process 2412
+2019-05-07 10:12:34 - Send SIGINT 2412
+2019-05-07 10:12:34 - SIGINT to 2412 failed - Killing as fallback
+2019-05-07 10:12:34 - Finished ceragonexcel.exe

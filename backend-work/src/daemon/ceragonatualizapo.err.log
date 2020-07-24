@@ -1,0 +1,24 @@
+Wed, 17 Apr 2019 22:52:21 GMT hsts deprecated The "includeSubdomains" parameter is deprecated. Use "includeSubDomains" (with a capital D) instead. at ..\..\backend\node_modules\loopback\lib\server-app.js:74:25
+strong-remoting n√£o suporta mais a op√ß√£o "errorHandler.disableStackTrace". Use a nova op√ß√£o "errorHandler.debug" no lugar.
+ERRO: o processo com PID 32164 (processo filho de PID 33804) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+Wed, 17 Apr 2019 22:52:39 GMT hsts deprecated The "includeSubdomains" parameter is deprecated. Use "includeSubDomains" (with a capital D) instead. at ..\..\backend\node_modules\loopback\lib\server-app.js:74:25
+strong-remoting n√£o suporta mais a op√ß√£o "errorHandler.disableStackTrace". Use a nova op√ß√£o "errorHandler.debug" no lugar.
+ERRO: o processo com PID 35000 (processo filho de PID 31168) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+Wed, 17 Apr 2019 22:52:59 GMT hsts deprecated The "includeSubdomains" parameter is deprecated. Use "includeSubDomains" (with a capital D) instead. at ..\..\backend\node_modules\loopback\lib\server-app.js:74:25
+strong-remoting n√£o suporta mais a op√ß√£o "errorHandler.disableStackTrace". Use a nova op√ß√£o "errorHandler.debug" no lugar.
+C:\_tfs\git\ceragon-automacao\backend-work\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+         ^
+
+TypeError: Cannot read property 'send' of null
+    at process.killkid (C:\_tfs\git\ceragon-automacao\backend-work\node_modules\node-windows\lib\wrapper.js:177:10)
+    at emitOne (events.js:96:13)
+    at process.emit (events.js:191:7)
+    at process.exit (internal/process.js:162:15)
+    at monitor (C:\_tfs\git\ceragon-automacao\backend-work\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\_tfs\git\ceragon-automacao\backend-work\node_modules\node-windows\lib\wrapper.js:170:5)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:194:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:215:12)

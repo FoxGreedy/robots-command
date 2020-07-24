@@ -1,0 +1,57 @@
+Mon, 06 May 2019 16:42:38 GMT hsts deprecated The "includeSubdomains" parameter is deprecated. Use "includeSubDomains" (with a capital D) instead. at ..\..\backend\node_modules\loopback\lib\server-app.js:74:25
+strong-remoting no longer supports "errorHandler.disableStackTrace" option. Use the new option "errorHandler.debug" instead.
+Mon, 06 May 2019 16:45:31 GMT hsts deprecated The "includeSubdomains" parameter is deprecated. Use "includeSubDomains" (with a capital D) instead. at ..\..\backend\node_modules\loopback\lib\server-app.js:74:25
+strong-remoting no longer supports "errorHandler.disableStackTrace" option. Use the new option "errorHandler.debug" instead.
+ReferenceError: log is not defined
+    at FSWatcher.watcher.on.error (C:\automacao\backend-work\src\readExcelFile.js:78:32)
+    at emitOne (events.js:96:13)
+    at FSWatcher.emit (events.js:191:7)
+    at FSWatcher._handleError (C:\automacao\backend-work\node_modules\chokidar\index.js:260:10)
+    at FSWatcher.<anonymous> (C:\automacao\backend-work\node_modules\chokidar\lib\nodefs-handler.js:470:14)
+Mon, 06 May 2019 16:46:53 GMT hsts deprecated The "includeSubdomains" parameter is deprecated. Use "includeSubDomains" (with a capital D) instead. at ..\..\backend\node_modules\loopback\lib\server-app.js:74:25
+strong-remoting no longer supports "errorHandler.disableStackTrace" option. Use the new option "errorHandler.debug" instead.
+Error: EBUSY: resource busy or locked, open 'C:\prj\BASE ABERTURA DE PROTOCOLOS AUTOMATIZADO 03.05.19.xlsx'
+Error: EBUSY: resource busy or locked, open 'C:\prj\BASE ABERTURA DE PROTOCOLOS AUTOMATIZADO 03.05.19.xlsx'
+Error: EBUSY: resource busy or locked, open 'C:\prj\BASE ABERTURA DE PROTOCOLOS AUTOMATIZADO 03.05.19.xlsx'
+Mon, 06 May 2019 17:57:17 GMT hsts deprecated The "includeSubdomains" parameter is deprecated. Use "includeSubDomains" (with a capital D) instead. at ..\..\backend\node_modules\loopback\lib\server-app.js:74:25
+strong-remoting no longer supports "errorHandler.disableStackTrace" option. Use the new option "errorHandler.debug" instead.
+ReferenceError: log is not defined
+    at FSWatcher.watcher.on.error (C:\automacao\backend-work\src\readExcelFile.js:78:32)
+    at emitOne (events.js:96:13)
+    at FSWatcher.emit (events.js:191:7)
+    at FSWatcher._handleError (C:\automacao\backend-work\node_modules\chokidar\index.js:260:10)
+    at FSWatcher.<anonymous> (C:\automacao\backend-work\node_modules\chokidar\lib\nodefs-handler.js:470:14)
+Mon, 06 May 2019 19:12:03 GMT hsts deprecated The "includeSubdomains" parameter is deprecated. Use "includeSubDomains" (with a capital D) instead. at ..\..\backend\node_modules\loopback\lib\server-app.js:74:25
+strong-remoting no longer supports "errorHandler.disableStackTrace" option. Use the new option "errorHandler.debug" instead.
+ReferenceError: log is not defined
+    at FSWatcher.watcher.on.error (C:\automacao\backend-work\src\readExcelFile.js:82:32)
+    at emitOne (events.js:96:13)
+    at FSWatcher.emit (events.js:191:7)
+    at FSWatcher._handleError (C:\automacao\backend-work\node_modules\chokidar\index.js:260:10)
+    at FSWatcher.<anonymous> (C:\automacao\backend-work\node_modules\chokidar\lib\nodefs-handler.js:470:14)
+Mon, 06 May 2019 19:26:43 GMT hsts deprecated The "includeSubdomains" parameter is deprecated. Use "includeSubDomains" (with a capital D) instead. at ..\..\backend\node_modules\loopback\lib\server-app.js:74:25
+strong-remoting no longer supports "errorHandler.disableStackTrace" option. Use the new option "errorHandler.debug" instead.
+ReferenceError: log is not defined
+    at FSWatcher.watcher.on.error (C:\automacao\backend-work\src\readExcelFile.js:82:32)
+    at emitOne (events.js:96:13)
+    at FSWatcher.emit (events.js:191:7)
+    at FSWatcher._handleError (C:\automacao\backend-work\node_modules\chokidar\index.js:260:10)
+    at C:\automacao\backend-work\node_modules\chokidar\lib\nodefs-handler.js:55:5
+    at Array.forEach (native)
+    at fsWatchBroadcast (C:\automacao\backend-work\node_modules\chokidar\lib\nodefs-handler.js:54:36)
+    at FSWatcher.<anonymous> (C:\automacao\backend-work\node_modules\chokidar\lib\nodefs-handler.js:100:9)
+    at emitOne (events.js:96:13)
+    at FSWatcher.emit (events.js:191:7)
+    at FSEvent.FSWatcher._handle.onchange (fs.js:1378:12)
+ReferenceError: log is not defined
+    at FSWatcher.watcher.on.error (C:\automacao\backend-work\src\readExcelFile.js:82:32)
+    at emitOne (events.js:96:13)
+    at FSWatcher.emit (events.js:191:7)
+    at FSWatcher._handleError (C:\automacao\backend-work\node_modules\chokidar\index.js:260:10)
+    at C:\automacao\backend-work\node_modules\chokidar\lib\nodefs-handler.js:55:5
+    at Array.forEach (native)
+    at fsWatchBroadcast (C:\automacao\backend-work\node_modules\chokidar\lib\nodefs-handler.js:54:36)
+    at FSWatcher.<anonymous> (C:\automacao\backend-work\node_modules\chokidar\lib\nodefs-handler.js:100:9)
+    at emitOne (events.js:96:13)
+    at FSWatcher.emit (events.js:191:7)
+    at FSEvent.FSWatcher._handle.onchange (fs.js:1378:12)
